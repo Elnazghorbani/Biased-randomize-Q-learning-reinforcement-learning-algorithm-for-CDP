@@ -1,0 +1,1 @@
+This repository features a hybrid algorithm that combines Q-learning reinforcement learning with biased-randomized methodology and Tabu Search to solve the capacitated dispersion problem. The current implementation delivers strong results, though further optimization efforts are ongoing to enhance its efficiency and performance.
